@@ -373,7 +373,7 @@ Jan 09 11:10:07 selinux systemd[1]: Started The nginx HTTP and reverse proxy ser
 
 #### Также можно проверить работу nginx из браузера. В моем случае http://192.168.56.118:4881   
 
-# ![Компьютер](img/1.png)   
+  
 
 ![alt text](img/1.png)
 
